@@ -15,7 +15,6 @@ public class ManguHaldur {
         laadiMangud();
     }
 
-    // Kusimuste andmebaas koodi sees malupohiselt (In-Memory)
     private void laadiMangud() {
         mangud.add(new ViikingiMang(
                 "Kes oli viikingite mutoloogias peajumal, tarkuse ja sojahaldjas?",
