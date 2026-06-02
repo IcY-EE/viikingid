@@ -38,7 +38,7 @@ public class ManguHaldur {
                 200
         ));
     }
-    
+
     public void alustaMangu() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("=========================================");
